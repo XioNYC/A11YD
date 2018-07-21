@@ -233,12 +233,3 @@ No animals will be harmed in the making of this lecture's transcript.
 * Accessible interfaces are inherently useable interfaces.
 * The only user experience that matters are *negative* ones.
 
-
-------
-
-Images
-* The *Mutants*
-* *Martok*
-* *Zatoichi*
-* Enrique Pinti
-* John Cleese
